@@ -25,7 +25,7 @@ export const openexperiences = [
     },
     {
         id: 5,
-        title: "Contributors",
+        title: "Contributor",
         company: "Hacktoberfest - 2023",
         duration: "(Oct 2023 - Nov 2023)"
     }
